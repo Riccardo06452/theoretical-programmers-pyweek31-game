@@ -11,3 +11,4 @@ cd cop_running_simulator
 python -m pip install -r requirements.txt
 python main.py  
 ```  
+ 
